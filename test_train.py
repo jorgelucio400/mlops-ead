@@ -43,7 +43,7 @@ def test_read_data():
 
 def test_create_model():
     """
-    Generate the function comment for the given function body in a markdown code block with
+    Generate the function comment for the given function body in a Markdown code block with
     the correct language syntax.
     """
     X, _ = read_data()
@@ -56,7 +56,7 @@ def test_create_model():
 
 def test_train_model(sample_data):
     """
-    Generate a function comment for the given function body in a markdown code block with
+    Generate a function comment for the given function body in a Markdown code block with
     the correct language syntax.
 
     Parameters:
